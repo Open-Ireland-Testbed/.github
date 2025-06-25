@@ -1,4 +1,4 @@
-# Open Ireland Optical–Wireless Testbed
+# Open Ireland Optical Testbed
 
 Welcome to the software stack powering Ireland’s national optical research infrastructure at Trinity College Dublin.
 
