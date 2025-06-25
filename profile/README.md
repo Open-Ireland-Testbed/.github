@@ -6,7 +6,7 @@ Welcome to the software stack powering Ireland’s national optical research inf
 
 ## Overview
 
-The optical side of the **Open Ireland** is a programmable reconfigurable testbed built from Lumentum ROADMs, a 320 × 320 optical switch, In-line Juniper amplifiers, and coherent transponders. All devices expose open SDN/NFV APIs, allowing for experiments in optical transport and real‑time automation.
+The optical side of the **Open Ireland** is a programmable reconfigurable testbed built from Lumentum ROADMs, a 320 × 320 optical switch, In-line Juniper amplifiers, and coherent transponders. All devices expose open SDN APIs, allowing for experiments in optical transport and real‑time automation.
 
 ---
 
