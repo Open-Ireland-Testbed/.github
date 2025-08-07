@@ -14,7 +14,7 @@ The optical side of the **Open Ireland** is a programmable reconfigurable test
 
 | Repository | Visibility | Purpose | Main Language | License |
 |------------|------------|---------|--------------|---------|
-| [`tcdona3`](https://github.com/Open-Ireland-Testbed/tcdona3) | Public | Core control software for the optical testbed (device drivers, NETCONF APIs, automation scripts). | Python | MIT |
+| [`tcdona3`](https://github.com/Open-Ireland-Testbed/tcdona3) | Public | Core control software for the optical testbed (device drivers, NETCONF APIs, automation scripts). | ![GitHub top language](https://img.shields.io/github/languages/top/Open-Ireland-Testbed/tcdona3?style=flat&logo=python) | MIT |
 | [`twilight`](https://github.com/Open-Ireland-Testbed/twilight) | Private | Digital twin of the network. | Python | BSD-3-Clause |
 | [`twinlink`](https://github.com/Open-Ireland-Testbed/twinlink) | Private | Real device behavior emulation for twilight over Netconf | C | - |
 | [`twilight_integration`](https://github.com/Open-Ireland-Testbed/twilight_integration) | Private | External adapters and plug-ins for **twilight** (e.g., Kafka integration, TimescaleDB integration). | Python | BSD-3-Clause |
