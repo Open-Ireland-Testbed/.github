@@ -1,5 +1,7 @@
 # Open Ireland Optical Testbed
 
+[![CI](https://github.com/Open-Ireland-Testbed/twilight/actions/workflows/ci.yml/badge.svg)](https://github.com/Open-Ireland-Testbed/twilight/actions/workflows/ci.yml)
+
 Welcome to the software stack powering Ireland’s national optical research infrastructure at Trinity College Dublin.
 
 ---
