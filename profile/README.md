@@ -1,7 +1,5 @@
 # Open Ireland Optical Testbed
 
-[![CI](https://github.com/Open-Ireland-Testbed/twilight/actions/workflows/ci.yml/badge.svg)](https://github.com/Open-Ireland-Testbed/twilight/actions/workflows/ci.yml)
-
 Welcome to the software stack powering Ireland’s national optical research infrastructure at Trinity College Dublin.
 
 ---
@@ -17,7 +15,7 @@ The optical side of the **Open Ireland** is a programmable reconfigurable test
 | Repository | Visibility | Purpose | Main Language | License |
 |------------|------------|---------|--------------|---------|
 | [`tcdona3`](https://github.com/Open-Ireland-Testbed/tcdona3) | Public | Core control software for the optical testbed (device drivers, NETCONF APIs, automation scripts). | Python | MIT |
-| [`twilight`](https://github.com/Open-Ireland-Testbed/twilight) | Private | Digital twin of the network. | Python | BSD-3-Clause |
+| [`twilight`](https://github.com/Open-Ireland-Testbed/twilight) [![CI](https://github.com/Open-Ireland-Testbed/twilight/actions/workflows/ci.yml/badge.svg)](https://github.com/Open-Ireland-Testbed/twilight/actions/workflows/ci.yml) | Private | Digital twin of the network. | Python | BSD-3-Clause |
 | [`twinlink`](https://github.com/Open-Ireland-Testbed/twinlink) | Private | Real device behavior emulation for twilight over Netconf | C | - |
 | [`twilight_integration`](https://github.com/Open-Ireland-Testbed/twilight_integration) | Private | External adapters and plug-ins for **twilight** (e.g., Kafka integration, TimescaleDB integration). | Python | BSD-3-Clause |
 | [`twilight_mcp_integration`](https://github.com/Open-Ireland-Testbed/twilight_mcp_integration) | Private | Agent & MCP modules for natural language interactions. | Python | BSD-3-Clause |
