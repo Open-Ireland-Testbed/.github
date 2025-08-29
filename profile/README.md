@@ -18,7 +18,7 @@ The optical side of the **Open Ireland** is a programmable reconfigurable test
 | [`twilight`](https://github.com/Open-Ireland-Testbed/twilight) | Private | Digital twin of the network. | Python | BSD-3-Clause |
 | [`twinlink`](https://github.com/Open-Ireland-Testbed/twinlink) | Private | Real device behavior emulation for twilight over Netconf | C | BSD-3-Clause |
 | [`twilight_integration`](https://github.com/Open-Ireland-Testbed/twilight_integration) | Private | External adapters and plug-ins for **twilight** (e.g., Kafka integration, TimescaleDB integration). | Python | BSD-3-Clause |
-| [`twilight_mcp_integration`](https://github.com/Open-Ireland-Testbed/twilight_mcp_integration) | Private | Agent & MCP modules for natural language interactions. | Python | BSD-3-Clause |
+| [`betsy_ai_agent`](https://github.com/Open-Ireland-Testbed/twilight_mcp_integration) | Private | Agent & MCP modules for natural language interactions. | Python | BSD-3-Clause |
 | [`PDU_automation`](https://github.com/Open-Ireland-Testbed/PDU_automation) | Private | Scripts for remote power distribution unit control and energy telemetry. | Python | BSD-3-Clause |
 | [`tcdona3_scheduler`](https://github.com/Open-Ireland-Testbed/tcdona3_scheduler) | Private | Equipment booking scheduler with REST API & CLI. | JavaScript | MIT |
 
