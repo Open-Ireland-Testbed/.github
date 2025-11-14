@@ -2,6 +2,8 @@
 
 Welcome to the software stack powering Ireland’s national optical research infrastructure at Trinity College Dublin.
 
+### Our wiki: https://open-ireland-testbed.github.io/wiki/
+
 ---
 
 ## Overview
