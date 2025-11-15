@@ -1,6 +1,6 @@
 # Open Ireland Optical Testbed
 
-Welcome to the software stack powering Ireland’s national optical research infrastructure at Trinity College Dublin.
+Welcome to the Ireland’s national optical research infrastructure at Trinity College Dublin.
 
 ### Our wiki: https://open-ireland-testbed.github.io/wiki/
 
@@ -28,7 +28,6 @@ The optical side of the **Open Ireland** is a programmable reconfigurable test
 
 ## Documentation & Resources
 
-* **Wiki:** [https://open-ireland.atlassian.net/wiki/spaces/OP/overview](https://open-ireland.atlassian.net/wiki/spaces/OP/overview)
 * **CONNECT Centre:** [https://connectcentre.ie](https://connectcentre.ie)
 
 ---
@@ -43,4 +42,4 @@ The optical side of the **Open Ireland** is a programmable reconfigurable test
 
 ---
 
-*Last updated: 25 June 2025*
+*Last updated: 15 November 2025*
